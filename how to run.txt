@@ -1,0 +1,2 @@
+cd /home/osman/wordclock
+sudo python3 wordclock.py
